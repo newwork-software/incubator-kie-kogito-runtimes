@@ -119,3 +119,7 @@ message ForEachNodeInstanceContent {
 message AsyncEventNodeInstanceContent {
     string job_id = 1;
 }
+
+message ForEachJoinNodeInstanceContent {
+    string forEachNodeId = 1;
+}

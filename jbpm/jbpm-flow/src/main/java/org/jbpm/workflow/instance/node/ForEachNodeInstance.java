@@ -233,6 +233,10 @@ public class ForEachNodeInstance extends CompositeContextNodeInstance {
             return (ForEachJoinNode) getNode();
         }
 
+        public ForEachNodeInstance getForEachNodeInstance() {
+            return ForEachNodeInstance.this;
+        }
+
         @Override
         @SuppressWarnings({ "unchecked", "rawtypes" })
         public void internalTrigger(KogitoNodeInstance from, String type) {

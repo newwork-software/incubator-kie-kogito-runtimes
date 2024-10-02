@@ -23,6 +23,7 @@ org.jbpm.flow.serialization.impl.marshallers.state.DynamicNodeInstanceReader
 org.jbpm.flow.serialization.impl.marshallers.state.EventNodeInstanceReader
 org.jbpm.flow.serialization.impl.marshallers.state.EventSubProcessNodeInstanceReader
 org.jbpm.flow.serialization.impl.marshallers.state.ForEachNodeInstanceReader
+org.jbpm.flow.serialization.impl.marshallers.state.ForEachJoinNodeInstanceReader
 org.jbpm.flow.serialization.impl.marshallers.state.JoinNodeInstanceReader
 org.jbpm.flow.serialization.impl.marshallers.state.LambdaSubProcessNodeInstanceReader
 org.jbpm.flow.serialization.impl.marshallers.state.MilestoneNodeInstanceReader

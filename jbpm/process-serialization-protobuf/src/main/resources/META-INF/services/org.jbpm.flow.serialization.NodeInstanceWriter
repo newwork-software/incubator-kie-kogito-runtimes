@@ -23,6 +23,7 @@ org.jbpm.flow.serialization.impl.marshallers.state.DynamicNodeInstanceWriter
 org.jbpm.flow.serialization.impl.marshallers.state.EventNodeInstanceWriter
 org.jbpm.flow.serialization.impl.marshallers.state.EventSubProcessNodeInstanceWriter
 org.jbpm.flow.serialization.impl.marshallers.state.ForEachNodeInstanceWriter
+org.jbpm.flow.serialization.impl.marshallers.state.ForEachJoinNodeInstanceWriter
 org.jbpm.flow.serialization.impl.marshallers.state.JoinNodeInstanceWriter
 org.jbpm.flow.serialization.impl.marshallers.state.LambdaSubProcessNodeInstanceWriter
 org.jbpm.flow.serialization.impl.marshallers.state.MilestoneNodeInstanceWriter
